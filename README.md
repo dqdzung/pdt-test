@@ -1,6 +1,6 @@
 # Journal Rankings
-npm i to install dependencies
-npm start to start
+- npm i to install dependencies
+- npm start to start
 
 # Features
 - Pagination
